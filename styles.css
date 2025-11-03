@@ -1,0 +1,38 @@
+
+
+body {
+    background-color:#111111;
+}
+
+h1 {
+    text-align: center;
+    color: #afafaf ;
+}
+h2 {
+    text-align: center;
+    color: #afafaf ;
+}
+p {
+    color: #afafaf ;
+    text-align: center;
+}
+
+ul#menu li a {
+    background-color: #745ab0;
+    color: #afafaf ;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;}
+
+ul#menu li {
+    display: inline;}
+
+
+ul#projects-menu {
+    text-align: center;
+}
+
+ul#projects-menu li{
+    display: inline;
+    text-align: center;
+}
